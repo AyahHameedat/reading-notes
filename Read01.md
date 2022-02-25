@@ -21,7 +21,8 @@
     
 <br>        
     
-```class AYA         
+```
+class AYA         
      {      
     
     // Static variable
@@ -31,8 +32,9 @@
     // Instance variable    
         int b;        
     
-    }```
-    
+}
+```
+
     Local Variables:
 ##### A variable defined within a block or method or constructor is called a local variable.
 
@@ -56,7 +58,8 @@
 #####  Expression is a line of code that holds some information
       Example: int result = 1 + 2; // result is now 3      
 ##### A statement is a single command that performs some activity when executed by the Java interpreter:      
-      Examples: 
+```
+Examples: 
       // assignment statement
       aValue = 8933.234;
       // increment statement
@@ -65,8 +68,10 @@
       System.out.println("Hello World!");
       // object creation statement
       Bicycle myBike = new Bicycle();     
+```
 ##### Block: A group of statements is called a block or statement block. A block of statements is enclosed in braces. Variables and classes declared in the block are called local variables and local classes, respectively. The scope of local variables and classes is the block in which they are declared.
-       Example:   
+```
+Example:   
        class AYA {
        public static void main(String[] args) {
           boolean condition = true;
@@ -75,7 +80,7 @@
           } // end block one
        }
     }      
-    
+``` 
 ##### In blocks, one statement is interpreted at a time in the order in which ...
 
     - Control Flow Statements      
