@@ -52,8 +52,39 @@
 
 
     - Expressions, Statements, and Blocks
-
-
-
+#####  Expression is a line of code that holds some information
+      Example: int result = 1 + 2; // result is now 3
+##### A statement is a single command that performs some activity when executed by the Java interpreter:      
+      Examples: 
+      // assignment statement
+      aValue = 8933.234;
+      // increment statement
+      aValue++;
+      // method invocation statement
+      System.out.println("Hello World!");
+      // object creation statement
+      Bicycle myBike = new Bicycle();
+ ##### Block: A group of statements is called a block or statement block. A block of statements is enclosed in braces. Variables and classes declared in the block are called local variables and local classes, respectively. The scope of local variables and classes is the block in which they are declared.
+       Example:
+       class AYA {
+       public static void main(String[] args) {
+          boolean condition = true;
+          if (condition) { // begin block 1
+               System.out.println("Condition is true.");
+          } // end block one
+     }
+}
+In blocks, one statement is interpreted at a time in the order in which ...
 
     - Control Flow Statements
+
+##### A programming language uses control statements to control the flow of execution of a program based on certain conditions. These are used to cause the flow of execution to advance and branch based on changes to the state of a program. 
+
+    Java’s Selection statements: 
+
+    if
+    if-else
+    nested-if
+    if-else-if
+    switch-case
+    jump – break, continue, return
