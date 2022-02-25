@@ -46,7 +46,8 @@
 ##### 4) If your variable stores a constant value, such as static final int NUM_GEARS = 6, the convention changes slightly, capitalizing every letter and separating subsequent words with the underscore character.
 
     - Operators
-
+#### Java provides many types of operators which can be used according to the need. They are classified based on the functionality they provide. Some of the types are:
+ ![Precedence and Associativity of Operators](https://media.geeksforgeeks.org/wp-content/uploads/operators.png) .
 
 
 
