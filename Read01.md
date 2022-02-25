@@ -21,7 +21,7 @@
     
 <br>        
     
-    class AYA         
+```class AYA         
      {      
     
     // Static variable
@@ -31,8 +31,8 @@
     // Instance variable    
         int b;        
     
-    }    
-
+    }```
+    
     Local Variables:
 ##### A variable defined within a block or method or constructor is called a local variable.
 
@@ -81,15 +81,14 @@
     - Control Flow Statements      
 ##### A programming language uses control statements to control the flow of execution of a program based on certain conditions. These are used to cause the flow of execution to advance and branch based on changes to the state of a program. 
 
-    Java’s Selection statements: 
-
+```Java’s Selection statements: 
     if
     if-else
     nested-if
     if-else-if
     switch-case
     jump – break, continue, return
-
+```
 <br>
     
 ### Note => you can read more from: 
