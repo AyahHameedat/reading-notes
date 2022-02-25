@@ -72,9 +72,9 @@
           if (condition) { // begin block 1
                System.out.println("Condition is true.");
           } // end block one
-     }
-}
-In blocks, one statement is interpreted at a time in the order in which ...
+       }
+    }
+##### In blocks, one statement is interpreted at a time in the order in which ...
 
     - Control Flow Statements
 
