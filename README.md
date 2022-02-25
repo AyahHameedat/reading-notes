@@ -14,6 +14,6 @@
 
 The code | The Title | The Link
 ------ | ------|------
-Read01 | Java Basics | [link]()
+Read01 | Java Basics | [link](https://ayahhameedat.github.io/reading-notes/Read01)
 Read02 | Arrays, Loops, Imports |
 Read03 | Maps, primitives, File I/O | 
