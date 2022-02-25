@@ -13,7 +13,7 @@
 ### Code 401 - Advanced Software Development
 
 The code | The Title | The Link
------- | ------|----------
+------ | ------|------
 Read01 | Java Basics | [link]()
 Read02 | Arrays, Loops, Imports |
 Read03 | Maps, primitives, File I/O | 
