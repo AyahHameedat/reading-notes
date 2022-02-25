@@ -35,9 +35,12 @@
 #### Local Variables: 
 ##### A variable defined within a block or method or constructor is called a local variable.
 
-#### Parameters
+#### Parameters:
+##### The important thing to remember is that parameters are always classified as "variables" not "fields".
 
 ### Naming:
+##### 1) Always begin your variables' names with a letter, not allowed to begin with symbols like ($, _,....).
+##### 2) White space is not permitted.
 
 
 ### - Operators
