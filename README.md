@@ -7,8 +7,9 @@
 #### Interested in reading books, playing badminton, watching football and tennis matches, followed up latest technologies news and influencers such as Elon Musk.
 #### Why Elon Musk? because he's working to make our life easier by employing AI and machine learning programming.
 
+<br>
 
-# 401 Data Structures | Code Challenges : 
+### **401 Data Structures | Code Challenges** 
 Number | The Challenge | Challenge Link
 ------ | --------------|------
 1 | Reverse an array | [Reverse an array]()
@@ -18,7 +19,7 @@ Number | The Challenge | Challenge Link
 <br>
 
 
-### Code 401 - Advanced Software Development
+### **Code 401 - Advanced Software Development**
 
 The code | The Title | The Link
 ------ | ------|------
