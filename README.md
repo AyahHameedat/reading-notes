@@ -8,7 +8,15 @@
 #### Why Elon Musk? because he's working to make our life easier by employing AI and machine learning programming.
 
 
-# Table Of Contents: 
+# 401 Data Structures | Code Challenges : 
+Number | The Challenge | Challenge Link
+------ | --------------|------
+1 | Reverse an array | [Reverse an array]()
+2 | Insert and shift an array in middle at index | [Insert and shift an array in middle at index]()
+3 | Binary search in a sorted 1D array | [Binary search in a sorted 1D array]()
+
+<br>
+
 
 ### Code 401 - Advanced Software Development
 
