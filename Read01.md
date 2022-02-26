@@ -1,9 +1,13 @@
-# Java Basics
+# Java Basics ndfkmdlfflsd
 
 #### Java is defined by a specification and consists of a programming language, a compiler, core libraries, and a runtime (Java virtual machine) The Java runtime allows software developers to write program code in other languages than the Java programming language which still runs on the Java virtual machine. The target of Java is to write a program once and then run this program on multiple operating systems.
 ### let's start with The basics of this amazing Language!
 <br>
  
+
+# Variables
+#### Variable in Java is a data container that saves the data values during Java program execution. Every variable is assigned a data type that designates the type and quantity of value it can hold. Variable is a memory location name of the data.
+
 
 + ### **Variables**
 
