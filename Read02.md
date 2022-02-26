@@ -42,7 +42,7 @@ class ImportTest {
 
 # **Loops**
 
-###Looping in programming languages is a feature which facilitates the execution of a set of instructions/functions repeatedly while some condition evaluates to true.
+### Looping in programming languages is a feature which facilitates the execution of a set of instructions/functions repeatedly while some condition evaluates to true.
 
 #### Java provides three ways for executing the loops:
 ### **1- for loop:**
