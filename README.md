@@ -8,7 +8,7 @@
 
 <br>
 
-### **401 Data Structures | Code Challenges** 
+### **401 Data Structures | Code Challenges**
 Number | The Challenge | Challenge Link
 ------ | --------------|------
 1 | Reverse an array | [Reverse an array](https://github.com/AyahHameedat/data-structures-and-algorithms/blob/main/java/Challenge1/README.md)
