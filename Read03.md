@@ -80,4 +80,23 @@ throw Instance
 Example:
 throw new ArithmeticException("/ by zero");
 ```
+<br>
+
+# **Scanner**
+### The Scanner class is used to get user input, and it is found in the java. util package. To use the Scanner class, create an object of the class and use any of the available methods found in the Scanner class documentation.
+
+#### to import the Scanner : **import java.util.Scanner**
+
+<br>
+
+```
+    Scanner myObj = new Scanner(System.in);  // Create a Scanner object
+
+    String userName = myObj.nextLine();  // Read user input
+
+```
+
+# **Note:**
+#### to read more ,visit: ( https://www.w3schools.com/java/default.asp ).
+
 
