@@ -72,13 +72,13 @@ class Subclass-name extends Superclass-name
 
 # **Binary, Decimal and Hexadecimal Numbers**
 
-+ ## A Binary Number is made up of only 0s and 1s.
-+ ## A Decimal Number (based on the number 10) contains a Decimal Point.
++ ### A Binary Number is made up of only 0s and 1s.
++ ### A Decimal Number (based on the number 10) contains a Decimal Point.
 
 ## **Decimal vs Binary**
 ![DvB](./assets/DVB.png)
 
-+ ## A Hexadecimal Number is based on the number 16.
++ ### A Hexadecimal Number is based on the number 16.
 
-## ***Decimal vs Hexadecimal**
+## **Decimal vs Hexadecimal**
 ![DvH](./assets/DVH.jpg)
