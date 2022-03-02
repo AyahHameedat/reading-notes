@@ -18,3 +18,4 @@ Read01 | Java Basics | [link](https://ayahhameedat.github.io/reading-notes/Read0
 Read02 | Arrays, Loops, Imports | [link](https://ayahhameedat.github.io/reading-notes/Read02)
 Read03 | Maps, primitives, File I/O | [link](https://ayahhameedat.github.io/reading-notes/Read03)
 Read04 | OOP | [link](https://ayahhameedat.github.io/reading-notes/Read04)
+Read05 | Linked Lists | [link](https://ayahhameedat.github.io/reading-notes/Read05)
