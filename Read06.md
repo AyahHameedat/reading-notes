@@ -62,6 +62,6 @@ interface <interface_name>{
 <br>
 
 ### **Why use Java interface?**
-+ ####**It is used to achieve abstraction.**
-+ ####**By interface, we can support the functionality of multiple inheritance.**
-+ ####**It can be used to achieve loose coupling.**
++ #### **It is used to achieve abstraction.**
++ #### **By interface, we can support the functionality of multiple inheritance.**
++ #### **It can be used to achieve loose coupling.**
