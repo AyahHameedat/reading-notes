@@ -1,4 +1,4 @@
-# **Read19: Hibernate Many to Many Annotation Tutorial**
+# **Read18: Hibernate Many to Many Annotation Tutorial**
 
 ![](https://www.baeldung.com/wp-content/uploads/2017/09/New.png)
 
