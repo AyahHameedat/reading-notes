@@ -27,3 +27,8 @@ Read11 | Spring |[link](https://ayahhameedat.github.io/reading-notes/Read11)
 Read12 | Spring RESTful Routing & Static Files |[link](https://ayahhameedat.github.io/reading-notes/Read12)
 Read13 | Working with Relationships in Spring Data RES |[link](https://ayahhameedat.github.io/reading-notes/Read13)
 Read16 | Spring Security Architecture |[link](https://ayahhameedat.github.io/reading-notes/Read16)
+Read17 | Spring Boot and OAuth2 |[link](https://ayahhameedat.github.io/reading-notes/Read17)
+Read18 | Hibernate Many to Many Annotation Tutorial |[link](https://ayahhameedat.github.io/reading-notes/Read18)
+Read19 | Purely functional programming |[link](https://ayahhameedat.github.io/reading-notes/Read19)
+Read26 | Application Fundamentals |[link](https://ayahhameedat.github.io/reading-notes/Read26)
+
