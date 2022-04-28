@@ -31,4 +31,5 @@ Read17 | Spring Boot and OAuth2 |[link](https://ayahhameedat.github.io/reading-n
 Read18 | Hibernate Many to Many Annotation Tutorial |[link](https://ayahhameedat.github.io/reading-notes/Read18)
 Read19 | Purely functional programming |[link](https://ayahhameedat.github.io/reading-notes/Read19)
 Read26 | Application Fundamentals |[link](https://ayahhameedat.github.io/reading-notes/Read26)
+Read27 | Intents, Activities, and SharedPreferences |[link](https://ayahhameedat.github.io/reading-notes/Read27)
 
