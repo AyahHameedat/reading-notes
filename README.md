@@ -32,4 +32,5 @@ Read18 | Hibernate Many to Many Annotation Tutorial |[link](https://ayahhameedat
 Read19 | Purely functional programming |[link](https://ayahhameedat.github.io/reading-notes/Read19)
 Read26 | Application Fundamentals |[link](https://ayahhameedat.github.io/reading-notes/Read26)
 Read27 | Intents, Activities, and SharedPreferences |[link](https://ayahhameedat.github.io/reading-notes/Read27)
+Read28 | RecyclerView for displaying lists of data |[link](https://ayahhameedat.github.io/reading-notes/Read28)
 
