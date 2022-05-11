@@ -21,3 +21,8 @@
 * Con # 2 – Collaboration Can Be Frustrating
 * Con # 3 – Stepping Outside The Box
 * Con #4 – Potential For Surprise Bills
+
+<br>
+
+## When setting up your project, you have a whole bunch of different configurations to choose from as seen in the image below:
+![](https://i0.wp.com/www.beabetterdev.com/wp-content/uploads/2021/09/image-27.png?resize=768%2C447&ssl=1)
