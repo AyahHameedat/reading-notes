@@ -1,4 +1,4 @@
-# **Read: 31 - Espresso**
+# **Read: 31 - Amplify**
 
 
 ## **What is AWS Amplify?**
