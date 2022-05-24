@@ -37,3 +37,7 @@ Read29 | Room |[link](https://ayahhameedat.github.io/reading-notes/Read29)
 Read30 | Hash Table |[link](https://ayahhameedat.github.io/reading-notes/Read30)
 Read31 | Amplify |[link](https://ayahhameedat.github.io/reading-notes/Read31)
 Read32 | Serverless and Amplify |[link](https://ayahhameedat.github.io/reading-notes/Read32)
+Read33 | GraphQL @connection |[link](https://ayahhameedat.github.io/reading-notes/Read33)
+Read34 | Publish your app |[link](https://ayahhameedat.github.io/reading-notes/Read34)
+Read35 | Graphs |[link](https://ayahhameedat.github.io/reading-notes/Read35)
+
