@@ -40,4 +40,5 @@ Read32 | Serverless and Amplify |[link](https://ayahhameedat.github.io/reading-n
 Read33 | GraphQL @connection |[link](https://ayahhameedat.github.io/reading-notes/Read33)
 Read34 | Publish your app |[link](https://ayahhameedat.github.io/reading-notes/Read34)
 Read35 | Graphs |[link](https://ayahhameedat.github.io/reading-notes/Read35)
+Read36 | Cognito |[link](https://ayahhameedat.github.io/reading-notes/Read36)
 
