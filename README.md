@@ -41,4 +41,6 @@ Read33 | GraphQL @connection |[link](https://ayahhameedat.github.io/reading-note
 Read34 | Publish your app |[link](https://ayahhameedat.github.io/reading-notes/Read34)
 Read35 | Graphs |[link](https://ayahhameedat.github.io/reading-notes/Read35)
 Read36 | Cognito |[link](https://ayahhameedat.github.io/reading-notes/Read36)
+Read37 | S3 |[link](https://ayahhameedat.github.io/reading-notes/Read37)
+Read38 | Notifications |[link](https://ayahhameedat.github.io/reading-notes/Read38)
 
