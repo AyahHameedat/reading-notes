@@ -57,4 +57,4 @@ We already have the technology.
 "The greater challenge is the artificial intelligence behind the machine," Toyota Canada president Larry Hutchinson said, addressing the TalkAuto Conference in Toronto last November. "Think of the millions of situations that we process and decisions that we have to make in real traffic. … We need to program that intelligence into a vehicle, but we don't have the data yet to create a machine that can perceive and respond to the virtually endless permutations of near misses and random occurrences that happen on even a simple trip to the corner store."
 
 ## Tech Company Principles: Ethical OS Toolkit
-![](https://ethicalos.org/wp-content/uploads/2018/07/Screen-Shot-2018-07-05-at-8.18.27-PM.png)
+![](https://miro.medium.com/max/1400/1*YPxOFGRv7iwlLF4oGPoaKA.png)
